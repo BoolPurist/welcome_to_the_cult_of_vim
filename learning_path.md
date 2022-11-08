@@ -1,6 +1,17 @@
 
 # My opinionated advise on how to learn vim.
 
+First if you do not type in 10 finger system then you should learn
+it before. 
+
+Tipp10 is great to learn the 10 finger system. Link to Software: 
+https://www.tipp10.com/en/
+For linux you can install via flatpak under https://flathub.org/apps/details/com.gitlab.tipp10.tipp10
+
+Plan a few weeks for getting used to it.
+
+----
+
 These document instructs you to learn vim step by step in an interval of weeks.
 
 Reason: I believe that learning too many things at once, will frustrate you so much that 
